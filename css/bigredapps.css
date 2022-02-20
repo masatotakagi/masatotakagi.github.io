@@ -1,0 +1,138 @@
+@font-face {
+  font-family: VAGRoundedStd;
+  src: url(https://bigredapps.com/VAGRoundedStd-Light.woff);
+}
+
+hr {
+  padding: 0px;
+  margin: 0px; 
+}
+
+body {
+  padding-bottom: 0px;
+  color: #5a5a5a;
+  font-family: VAGRoundedStd, Verdana, Tahoma, Geneva, sans-serif;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #5a5a5a;
+  font-family: VAGRoundedStd, Verdana, Tahoma, Geneva, sans-serif;
+  font-size: 20px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+button {
+  color: #5a5a5a;
+  font-family: VAGRoundedStd, Verdana, Tahoma, Geneva, sans-serif;
+  font-size: 20px;
+}
+
+li {
+	font-size: 20px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+
+table {
+width: 100%;
+max-width: 950px;
+min-width: 200px;
+}
+
+h2,h3,h4,h5 {
+  color: #555555;
+  font-family: VAGRoundedStd, Verdana, Tahoma, Geneva, sans-serif;
+  font-weight: bold;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 15px;
+}
+
+ul,
+ol {
+  padding: 0;
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+  line-height: 20px;
+}
+
+a:link {
+    color: #555555;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #555555;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #555555;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #555555;
+	text-decoration: none;
+}
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 18px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+@media only screen and (max-width: 700px) {
+img {
+    max-width:35%;height:auto;
+  }
+}
