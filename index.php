@@ -24,7 +24,6 @@
 <h3>Features</h3>
 <ul>
 <li>Addition, Subtraction, Multiplication, Division
-<li>Randomly generated numbers
 <li>Score percentage and elapsed time displayed
 <li>Configurable number of questions
 <li>Configurable numbers of answers for multiple choice
@@ -38,7 +37,7 @@
 <ul>
 <li>Review Incorrect - review the questions that were answered incorrectly
 <li>Score Cards - view and review past scores and questions
-<li>Specific Numbers - practice a single or multiple specific numbers
+<li>Specific Numbers - customize the first and second numbers ranges
 <li>Mixed Operations - ability to have cards with mixed operators
 <li>Flash Card Mode - displays the answer instead of multiple choice (swipe up to mark the card correct, swipe down to mark the card incorrect)
 <li>Manual Entry Mode - type your answer instead of selecting from a choice of possible answers
