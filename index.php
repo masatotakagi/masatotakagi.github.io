@@ -79,11 +79,6 @@ If you purchased the Full Paid School Version, this feature is included.</p>
 The Full Paid School Version or the "In App Purchase" is required to use this feature.</p>
 </div>
 
-<button type="button" class="collapsible"><li>Is it possible to hide/show the card count display?</button>
-<div class="content">
-  <p>Yes, please tap the top right corner of the flash card to toggle between hiding and displaying the card count.</p>
-</div>
-
 <button type="button" class="collapsible"><li>What's the difference between the Free Version and Full Paid School Version?</button>
 <div class="content">
   <p>The Full Paid School Version has all the available features unlocked.  The Free Version has "In App Purchases" where you can buy one feature at a time or all.  If you purchase 
