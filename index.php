@@ -69,7 +69,7 @@
 
 <button type="button" class="collapsible"><li>Is it possible to just show the answer, not multiple choice?</button>
 <div class="content">
-  <p>Yes, there is an "In App Purchase" called Flash Card Mode which enables you to just display the answer.  You can toggle this feature on/off in the settings screen.
+  <p>Yes, there is an "In App Purchase" called Flash Card Mode which enables you to just display the answer.  You can select this feature in the settings screen, under Card Mode.
 If you purchased the Full Paid School Version, this feature is included.</p>
 </div>
 
