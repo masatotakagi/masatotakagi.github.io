@@ -79,11 +79,10 @@ If you purchased the Full Paid School Version, this feature is included.</p>
 The Full Paid School Version or the "In App Purchase" is required to use this feature.</p>
 </div>
 
-<button type="button" class="collapsible"><li>What's the difference between the Free Version and Full Paid School Version?</button>
+<button type="button" class="collapsible"><li>What's the difference between the Free Version and the School Version?</button>
 <div class="content">
-  <p>The Full Paid School Version has all the available features unlocked.  The Free Version has "In App Purchases" where you can buy one feature at a time or all.  If you purchase 
-all the "In App Purchases", it will be exactly the same as the Full Paid School Version.  Many school districts do not allow apps with "In App Purchases".  If you plan on purchasing all the "In App Purchase" features, we recommend you buy
-the "Full Paid School Version" as it is easier to Family Share. </p>
+  <p>The School Version has all the available features unlocked and there are no In App Purchases.  The Free Version has an "In App Purchase" where you can unlock the paid features.  If you buy the 
+the "In App Purchase", it will be exactly the same as the School Version.  Many school districts do not allow apps with "In App Purchases".</p>
 </div>
 
 <button type="button" class="collapsible"><li>How can I create my own specific questions?</button>
