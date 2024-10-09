@@ -79,16 +79,49 @@ If you purchased the Full Paid School Version, this feature is included.</p>
 The Full Paid School Version or the "In App Purchase" is required to use this feature.</p>
 </div>
 
-<button type="button" class="collapsible"><li>What's the difference between the Free Version and Full Paid School Version?</button>
+<button type="button" class="collapsible"><li>What's the difference between the Free Version and the School Version?</button>
 <div class="content">
-  <p>The Full Paid School Version has all the available features unlocked.  The Free Version has "In App Purchases" where you can buy one feature at a time or all.  If you purchase 
-all the "In App Purchases", it will be exactly the same as the Full Paid School Version.  Many school districts do not allow apps with "In App Purchases".  If you plan on purchasing all the "In App Purchase" features, we recommend you buy
-the "Full Paid School Version" as it is easier to Family Share. </p>
+  <p>The School Version has all the available features unlocked and there are no In App Purchases.  The Free Version has an "In App Purchase" where you can unlock the paid features.  If you buy the 
+the "In App Purchase", it will be exactly the same as the School Version.  Many school districts do not allow apps with "In App Purchases".</p>
 </div>
 
 <button type="button" class="collapsible"><li>How can I create my own specific questions?</button>
 <div class="content">
   <p> To access the "Custom Cards" feature, just swipe left/right on the main screen and then select "Custom Cards". Enter your desired question and tap the "Add Question" button.  Once you are done adding questions, swipe left/right to see all the questions you have added.  Tap the "Start" button to begin.  An "In App Purchase" or the "Full Paid School Version" is required to used this feature.</p>
+</div>
+
+<button type="button" class="collapsible"><li>How do I set the Min/Max number ranges in the settings?</button>
+<div class="content">
+  <p> For example, to configure multiplcation number ranges:<br>
+ - first tap the <b>X</b> symbol at the top of the settings screen<br>
+ - then tap one of the Min/Max number range balls, and a keypad will show up <br>
+ - type a number, and hit the <b>Enter button</b> at the bottom right corner of the keypad<br>
+ - you can set the other Min/Max number range balls by repeating the above<br>
+<br>
+After entering a number value, if you do not hit the <b>Enter button</b>, it will cancel the value entered.
+  </p>
+</div>
+
+<button type="button" class="collapsible"><li>What is meant by First Number and Second Number in the settings?</button>
+<div class="content">
+  <p> For example:<br>
+  <b>8+7=15</b> the first number is 8, and the second number is 7<br>
+  <b>10-4=6</b> the first number is 10, and the second number is 6<br>
+  <b>5x8=40</b> the first number is 5, and the second number is 8<br>
+  </p>
+</div>
+
+<button type="button" class="collapsible"><li>What is meant by Divisor and Quotient in the settings?</button>
+<div class="content">
+  <p> In the example <b>15÷3=5</b>, the divisor is 3, and the quotient (answer) is 5.<br>
+  It is implemeted like this to prevent fractions from being generated.<br>
+  It also allows specific answer ranges to be practiced.
+  </p>
+</div>
+
+<button type="button" class="collapsible"><li>I have some other questions, how can I contact you?</button>
+<div class="content">
+  <p> If you have any other questions or suggestions, please feel free to email us at contact@bigredapps.com</p>
 </div>
 
 </td></tr>
