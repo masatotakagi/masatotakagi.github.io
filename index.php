@@ -42,7 +42,7 @@
 <li>Flash Card Mode - displays the answer instead of multiple choice (swipe up to mark the card correct, swipe down to mark the card incorrect)
 <li>Manual Entry Mode - type your answer instead of selecting from a choice of possible answers
 <li>Custom Cards - ability to create your own custom questions
-<li>Timer Per Card - allows you to set a time limit for each card
+<li>Time Per Card - allows you to set a time limit for each card
 </ul>
 </td></tr>
 
