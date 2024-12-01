@@ -61,33 +61,15 @@
 </td></tr>
 
 <tr><td>
+
 <h3>FAQs - Frequently Asked Questions</h3>
 
-<button type="button" class="collapsible"><li>How do I get to the next question/card?</button>
+<button type="button" class="collapsible"><li>In the recent app update, where is the specific number selection?</button>
 <div class="content">
-  <p>Once you have answered the question correctly, please swipe up to get to the next card.  In flash card mode, you can swipe up to mark the card correct, and swipe down to mark the card incorrect.</p>
-</div>
-
-<button type="button" class="collapsible"><li>Is it possible to just show the answer, not multiple choice?</button>
-<div class="content">
-  <p>Yes, there is an "In App Purchase" called Flash Card Mode which enables you to just display the answer.  You can select this feature in the settings screen, under Card Mode.
-If you purchased the Full Paid School Version, this feature is included.</p>
-</div>
-
-<button type="button" class="collapsible"><li>How do I get to the mixed operations screen?</button>
-<div class="content">
-  <p>Please tap the arrow icon located at the top of the main screen.  Alternatively you can swipe left/right to flip the card.  
-The Full Paid School Version or the "In App Purchase" is required to use this feature.</p>
-</div>
-
-<button type="button" class="collapsible"><li>What's the difference between the Free Version and the School Version?</button>
-<div class="content">
-  <p>The School Version has all the available features unlocked and there are no In App Purchases.  The Free Version has an "In App Purchase" where you can unlock the paid features.  If you buy the "In App Purchase", it will be exactly the same as the paid School Version.  Many school districts do not allow apps with "In App Purchases".</p>
-</div>
-
-<button type="button" class="collapsible"><li>How can I create my own specific questions?</button>
-<div class="content">
-  <p> To access the "Custom Cards" feature, just swipe left/right on the main screen and then select "Custom Cards". Enter your desired question and tap the "Add Question" button.  Once you are done adding questions, swipe left/right to see all the questions you have added.  Tap the "Start" button to begin.  An "In App Purchase" or the "Full Paid School Version" is required to used this feature.</p>
+  <p> The specific number feature is now in the settings menu (gear icon).  You can set which numbers you want to practice by setting the Min/Max ranges for the First and Second numbers.  You can set a different range for each operator.  
+<br><br>
+Previously you could only select the specific number for the second number and it wouldn't save your selections.
+  </p>
 </div>
 
 <button type="button" class="collapsible"><li>How do I set the Min/Max number ranges in the settings?</button>
@@ -119,7 +101,34 @@ After entering a number value, if you do not hit the <b>Enter button</b>, it wil
   </p>
 </div>
 
-<button type="button" class="collapsible"><li>I have some other questions, how can I contact you?</button>
+<button type="button" class="collapsible"><li>How do I get to the next question/card?</button>
+<div class="content">
+  <p>Once you have answered the question correctly, please swipe up to get to the next card.  In flash card mode, you can swipe up to mark the card correct, and swipe down to mark the card incorrect.</p>
+</div>
+
+<button type="button" class="collapsible"><li>Is it possible to just show the answer, not multiple choice?</button>
+<div class="content">
+  <p>Yes, there is an "In App Purchase" called Flash Card Mode which enables you to just display the answer.  You can select this feature in the settings screen, under Card Mode.
+If you purchased the Full Paid School Version, this feature is included.</p>
+</div>
+
+<button type="button" class="collapsible"><li>How do I get to the mixed operations screen?</button>
+<div class="content">
+  <p>Please tap the arrow icon located at the top of the main screen.  Alternatively you can swipe left/right to flip the card.  
+The Full Paid School Version or the "In App Purchase" is required to use this feature.</p>
+</div>
+
+<button type="button" class="collapsible"><li>How can I create my own specific questions?</button>
+<div class="content">
+  <p> To access the "Custom Cards" feature, just swipe left/right on the main screen and then select "Custom Cards". Enter your desired question and tap the "Add Question" button.  Once you are done adding questions, swipe left/right to see all the questions you have added.  Tap the "Start" button to begin.  An "In App Purchase" or the "Paid School Version" is required to use this feature.</p>
+</div>
+
+<button type="button" class="collapsible"><li>What's the difference between the Free Version and the School Version?</button>
+<div class="content">
+  <p>The School Version has all the available features unlocked and there are no In App Purchases.  The Free Version has an "In App Purchase" where you can unlock the paid features.  If you buy the "In App Purchase", it will be exactly the same as the paid School Version.  Many school districts do not allow apps with "In App Purchases".</p>
+</div>
+
+<button type="button" class="collapsible"><li>I have a suggestion and/or other question, how can I contact you?</button>
 <div class="content">
   <p> If you have any other questions or suggestions, please feel free to email us at contact@bigredapps.com</p>
 </div>
